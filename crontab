@@ -1,0 +1,3 @@
+SOL_PROJECT_PATH=/path/to/solana-trading-bot
+0 */8 * * * $SOL_PROJECT_PATH/scripts/wallet_history.sh >> $SOL_PROJECT_PATH/test.log 2>&1
+*/2 * * * * $SOL_PROJECT_PATH/scripts/trading.sh >> $SOL_PROJECT_PATH/test.log 2>&1
